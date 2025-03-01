@@ -43,7 +43,7 @@ python --version
 ### 2. Clone the Repository
 ```sh
 git clone https://github.com/CipherCosmos/auth.git
-cd flask-auth-api
+cd auth
 ```
 
 ### 3. Create and Activate Virtual Environment
